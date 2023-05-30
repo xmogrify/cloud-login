@@ -7,4 +7,4 @@ Presently supports AWS and Azure CLIs
 
 For AWS, the profile must match the name of a profile in ~/.aws/config, for Azure it is irrelevent.
 
-    Usage: <aws|az> <profile>
+Usage: ./cloud-login.sh &lt;aws|az> &lt;profile>
